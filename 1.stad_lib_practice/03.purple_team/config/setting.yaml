@@ -1,0 +1,10 @@
+monitor: 1 #1:start 0:stop ,-1:exit
+
+stocks:
+    - num: '000001'
+      high: 14
+      low: 10
+    - num: '000002'
+      high: 100
+      low: 50
+
